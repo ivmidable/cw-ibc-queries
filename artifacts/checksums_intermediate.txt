@@ -1,0 +1,2 @@
+b9366d1bcf88d8f6e9550a6bb8c9d526b6399521cd047b4a1935acba2bf1f56e  target/wasm32-unknown-unknown/release/cw_ibc_queries.wasm
+1e250bcf6ea753acacaa49497c4decc2d311a3cda7aebce0fb3c8d0c83bf9332  target/wasm32-unknown-unknown/release/cw_ibc_query_receiver.wasm
